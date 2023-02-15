@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Olá! Eu sou o Luiz Leal  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt=Hand icon" width="30px"/></h1>
+    <h1>Olá! Eu sou o Luiz Leal  <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" alt=Hand icon" width="30px"/></h1>
 </div>
 <div align="center">
     <a href="mailto:luizleal.dev@gmail.com?subject=&body=Hi, my name is..."><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail icon"/></a>
