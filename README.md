@@ -2,7 +2,7 @@
     <h1>Olá! Eu sou o Luiz Leal  <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" alt=Hand icon" width="30px"/></h1>
 </div>
 <div>
-    <img src="https://www.learnupon.com/wp-content/uploads/@2x-Blog-Multimodal-Learning-Animation.gif" alt="Programmer gif" />
+    <img src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966" alt="Programmer gif" />
 </div>
 <div align="center">
     <a href="mailto:luizleal.dev@gmail.com?subject=&body=Hi, my name is..."><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail icon"/></a>
