@@ -7,6 +7,10 @@
     <a href="https://codepen.io/luiz-dev"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen icon" /></a>
     <a href="https://instagram.com/luizz.dev?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram icon" /></a>
 </div>
+<hr>
+<div>
+    <p>Olá, meu nome é Luiz, sou estudante de programação e atualmente estou me especializando em desenvolvimento web. Sempre gostei muito de computadores e comecei a desenvolver meu interesse em programação criando alguns joguinhos simples com linguagem visual (drag-and-drop) ainda cedo. Eu gostaria de seguir uma carreira na área da informática, mas se isso não for possível, tenho certeza de que posso usar as habilidades de programação em qualquer outro lugar.</p>
+</div>
 <div align="center">
     <h3>🎯 Luiz Leal 's stats:</h3>
     <a href="github.com/Luiz-Developer">
