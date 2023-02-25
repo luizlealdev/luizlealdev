@@ -34,7 +34,5 @@
 </div>
 
 <div align="center">
-
-![Snake animation](https://github.com/luiz-developer/luiz-developer/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/luiz-developer/luiz-developer/blob/output/github-contribution-grid-snake.svg)
 </div>
