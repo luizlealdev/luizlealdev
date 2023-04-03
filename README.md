@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.ibb.co/1bxP1gZ/banner-luizleal-readme-github.png" alt="banner-luizleal-readme-github" border="0">
+    <img src="https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/77412893f720d98b84e0de1aef75bc17.gif" border="0">
     <h1>Olá! Eu sou o Luiz Leal  <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" alt=Hand icon" width="30px"/></h1>
 </div>
 <div align="center">
