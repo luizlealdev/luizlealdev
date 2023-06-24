@@ -32,15 +32,15 @@
 <div>
     <h3>🎯 Status de Luiz Leal:</h3>
     <div align="center">
-        <a href="https://github.com/luiz-developer">
-        <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Luiz-Developer&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-        <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Developer&layout=compact&langs_count=7&theme=radical"/>
+        <a href="https://github.com/luizlealdev">
+        <img height="150px" src="https://github-readme-stats.vercel.app/api?username=luizlealdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+        <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizlealdev&layout=compact&langs_count=7&theme=radical"/>
         </a>
     </div>
 </div>
 
 <div align="center">
         
-![Snake animation](https://github.com/luiz-developer/luiz-developer/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luiz-developer/luizlealdev/blob/output/github-contribution-grid-snake.svg)
 
 </div>
