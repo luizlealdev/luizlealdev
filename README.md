@@ -34,8 +34,8 @@
     <h3>🎯 Status de Luiz Leal:</h3>
     <div align="center">
         <a href="https://github.com/luizlealdev">
-        <img height="150px" src="https://github-readme-stats.vercel.app/api?username=luizlealdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-        <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizlealdev&layout=compact&langs_count=7&theme=radical"/>
+        <img height="150px" src="https://github-readme-stats.vercel.app/api?username=luizlealdev&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+        <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizlealdev&layout=compact&langs_count=7&theme=transparent"/>
         </a>
     </div>
 </div>
