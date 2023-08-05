@@ -1,6 +1,7 @@
 <div align="center">
     <h1>Olá! Eu sou o Luiz Leal  <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" alt=Hand icon" width="30px"/></h1>
-    <img src="https://i.ibb.co/4fS2X04/20230403-192936.gif" border="0">
+    <div><picture> <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/fNs7D7v/github-header-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/1ms1RVp/github-header-light.png"> <img alt="Banners" src="https://i.imgur.com/XSeJQdY.png"></picture></div> 
+
 </div>
 <div align="center">
     <a href="mailto:luizleal.dev@gmail.com?subject=&body=Hi, my name is..."><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail icon"/></a>
