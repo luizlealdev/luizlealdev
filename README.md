@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Olá! Eu sou o Luiz Leal  <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" alt=Hand icon" width="30px"/></h1>
+    <!---h1>Olá! Eu sou o Luiz Leal  <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" alt=Hand icon" width="30px"/></h1-->
     <div><picture> <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/fNs7D7v/github-header-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/1ms1RVp/github-header-light.png"> <img alt="Banners" src="https://i.imgur.com/XSeJQdY.png"></picture></div> 
 
 </div>
