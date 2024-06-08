@@ -1,6 +1,12 @@
 <div align="center">
     <!---h1>Olá! Eu sou o Luiz Leal  <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" alt=Hand icon" width="30px"/></h1-->
-    <div><picture> <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/fNs7D7v/github-header-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/1ms1RVp/github-header-light.png"> <img alt="Banners" src="https://i.imgur.com/XSeJQdY.png"></picture></div> 
+    <div>
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/fNs7D7v/github-header-dark.png">
+            <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/1ms1RVp/github-header-light.png">
+            <img alt="Banners" src="https://i.imgur.com/XSeJQdY.png">
+        </picture>
+    </div> 
 
 </div>
 <div align="center">
@@ -19,14 +25,7 @@
 <div>
     <h3>📖 Tecnologias em estudo</h3>
     <div>
-        <img width="44px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML icon" />
-        <img width="44px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS icon" />
-        <img width="44px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript icon" />
-        <img width="44px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="PHP icon" />
-        <img width="44px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL icon" />
-        <img width="44px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React icon" />
-        <img width="44px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap icon" />
-        <img width="44px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git icon" />
+        <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,firebase,sqlite" alt="Tecnologies" />
     </div>
 </div>
 <hr>
