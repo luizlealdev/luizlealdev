@@ -7,19 +7,10 @@
             <img alt="Banners" src="https://i.imgur.com/XSeJQdY.png">
         </picture>
     </div> 
-
 </div>
-<div align="center">
-    <a href="mailto:luizleal.dev@gmail.com?subject=&body=Hi, my name is..."><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail icon"/></a>
-    <a href="https://www.linkedin.com/in/luiz-leal-44196b269"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://codepen.io/luiz-dev"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen icon" /></a>
-    <a href="https://instagram.com/luizz.dev?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram icon" /></a>
-</div>
-<hr>
+<br>
 <div>
-    <p>👋 Olá, meu nome é Luiz, sou estudante de programação e atualmente estou me especializando em desenvolvimento web.</p>
-    <p>🧒 Sempre gostei muito de computadores e comecei a desenvolver meu interesse em programação criando alguns joguinhos simples com linguagem visual (drag-and-drop) ainda cedo.</p>
-     <p>💻 Eu gostaria de seguir uma carreira na área da informática, mas se isso não for possível, tenho certeza de que posso usar as habilidades de programação em qualquer outro lugar.</p>
+    <p>👋 Olá, meu nome é Luiz, sou estudante de programação e atualmente estou me especializando em desenvolvimento android, fico feliz que tenha entrado no meu perfil do github, sinta-se a vontade.</p>
 </div>
 <hr>
 <div>
