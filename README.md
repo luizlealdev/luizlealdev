@@ -8,7 +8,7 @@
 ![luizlealdev's Stats](https://github-readme-stats.vercel.app/api?username=luizlealdev&theme=transparent&show_icons=true&hide_border=true&count_private=true)
 ![luizlealdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizlealdev&theme=transparent&show_icons=true&hide_border=true&layout=compact)
 
-## 🤖 Technologies
+## 🤖 Tecnologias
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
