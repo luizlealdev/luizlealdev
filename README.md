@@ -5,7 +5,7 @@
 
 ## 🏆 Status 
 
-![luizlealdev's Stats](https://github-readme-stats-luizleal.vercel.app/api?username=luizlealdev&theme=transparent&show_icons=true&hide_border=true&count_private=true)
+![luizlealdev's Stats](https://github-readme-stats-luizleal.vercel.app/api?username=luizlealdev&theme=transparent&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
 ![luizlealdev's Top Languages](https://github-readme-stats-luizleal.vercel.app/api/top-langs/?username=luizlealdev&theme=transparent&show_icons=true&hide_border=true&layout=compact)
 
 ## 🤖 Tecnologias
