@@ -1,4 +1,4 @@
-<img align="right" alt="Android Jetpack" src="https://i.ibb.co/s96WgdMw/android-jetpack.png">
+<img align="right" alt="Android Jetpack" src="./images/android_jetpack.png">
 
 # Luiz Leal
 <p align="justify">
@@ -14,8 +14,8 @@ Hello, my name is Luiz. I'm a programming student specializing in Android develo
 
 ## 🏆 Stats
 
-![luizlealdev's Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luizlealdev&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=061626&hide_border=true&title_color=4285f4&text_color=FFF&border_radius=3&icon_color=4285f4&rank_icon=github&theme=transparent)
-![luizlealdev's Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luizlealdev&bg_color=061626&title_color=4285f4&show_icons=true&hide_border=true&layout=compact&text_color=FFF)
+![luizlealdev's Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luizlealdev&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&hide_border=true&title_color=4285f4&text_color=FFF&border_radius=3&icon_color=4285f4&rank_icon=github&theme=transparent)
+![luizlealdev's Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luizlealdev&title_color=4285f4&show_icons=true&hide_border=true&layout=compact&text_color=FFF&theme=transparent)
 
 
 ## 🤖 Techs & Skills
