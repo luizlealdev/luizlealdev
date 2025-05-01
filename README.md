@@ -1,6 +1,12 @@
 <img align="right" alt="Android Jetpack" src="./images/android_jetpack.png">
 
-# Luiz Leal
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" width="180" srcset="./images/title_dark.svg" alt="Luiz Leal">
+  <source media="(prefers-color-scheme: light)" width="180" srcset="./images/title_light.svg">
+  <img alt="github contribution grid snake animation" width="180" src="./images/title_light.svg">
+</picture>
 <p align="justify">
 Hello, my name is Luiz. I'm a programming student specializing in Android development. I'm happy you visited my GitHub profile! Here you can check out the projects I've been working on as I improve my skills in mobile app development. Feel free to explore and connect!
 </p>
@@ -12,13 +18,34 @@ Hello, my name is Luiz. I'm a programming student specializing in Android develo
 [![Instagram](https://img.shields.io/badge/Instagram-%23061626?style=for-the-badge&logo=instagram&logoColor=4285f4)](https://www.instagram.com/luizleal.dev/)
 [![Discord](https://img.shields.io/badge/Discord-%23061626?style=for-the-badge&logo=discord&logoColor=4285f4)](https://discord.com/users/826220663643701248)
 
-## 🏆 Stats
+## ⭐ Stats
 
-![luizlealdev's Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luizlealdev&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&hide_border=true&title_color=4285f4&text_color=FFF&border_radius=3&icon_color=4285f4&rank_icon=github&theme=transparent)
-![luizlealdev's Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luizlealdev&title_color=4285f4&show_icons=true&hide_border=true&layout=compact&text_color=FFF&theme=transparent)
+<picture>
+  <source
+    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luizlealdev&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&hide_border=true&title_color=4285f4&text_color=FFF&border_radius=3&icon_color=4285f4&rank_icon=github&theme=transparent"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luizlealdev&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&hide_border=true&title_color=4285f4&text_color=444444&border_radius=3&icon_color=4285f4&rank_icon=github&theme=transparent"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luizlealdev&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&hide_border=true&title_color=4285f4&text_color=444444&border_radius=3&icon_color=4285f4&rank_icon=github&theme=transparent" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luizlealdev&title_color=4285f4&show_icons=true&hide_border=true&layout=compact&text_color=FFF&theme=transparent"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luizlealdev&title_color=4285f4&show_icons=true&hide_border=true&layout=compact&text_color=444444&theme=transparent"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luizlealdev&title_color=4285f4&show_icons=true&hide_border=true&layout=compact&text_color=444444&theme=transparent" />
+</picture>
 
 
-## 🤖 Techs & Skills
+## 🛠️ Techs & Skills
+
 ![Java](https://img.shields.io/badge/java-%23061626.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%23061626.svg?style=for-the-badge&logo=kotlin&logoColor=844dfd)
 ![JavaScript](https://img.shields.io/badge/javascript-%23061626.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
