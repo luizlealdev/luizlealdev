@@ -43,25 +43,25 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luizlealdev&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&hide_border=true&title_color=4285f4&text_color=FFF&border_radius=3&icon_color=4285f4&rank_icon=github&theme=transparent"
+    srcset="https://github-readme-stats.vercel.app/api?username=luizlealdev&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&hide_border=true&title_color=4285f4&text_color=FFF&border_radius=3&icon_color=4285f4&rank_icon=github&theme=transparent"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luizlealdev&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&hide_border=true&title_color=4285f4&text_color=444444&border_radius=3&icon_color=4285f4&rank_icon=github&theme=transparent"
+    srcset="https://github-readme-stats.vercel.app/api?username=luizlealdev&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&hide_border=true&title_color=4285f4&text_color=444444&border_radius=3&icon_color=4285f4&rank_icon=github&theme=transparent"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luizlealdev&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&hide_border=true&title_color=4285f4&text_color=444444&border_radius=3&icon_color=4285f4&rank_icon=github&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luizlealdev&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&hide_border=true&title_color=4285f4&text_color=444444&border_radius=3&icon_color=4285f4&rank_icon=github&theme=transparent" />
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luizlealdev&title_color=4285f4&show_icons=true&hide_border=true&layout=compact&text_color=FFF&theme=transparent"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luizlealdev&title_color=4285f4&show_icons=true&hide_border=true&layout=compact&text_color=FFF&theme=transparent"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luizlealdev&title_color=4285f4&show_icons=true&hide_border=true&layout=compact&text_color=444444&theme=transparent"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luizlealdev&title_color=4285f4&show_icons=true&hide_border=true&layout=compact&text_color=444444&theme=transparent"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luizlealdev&title_color=4285f4&show_icons=true&hide_border=true&layout=compact&text_color=444444&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizlealdev&title_color=4285f4&show_icons=true&hide_border=true&layout=compact&text_color=444444&theme=transparent" />
 </picture>
 
 
